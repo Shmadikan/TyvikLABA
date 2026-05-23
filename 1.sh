@@ -1,4 +1,4 @@
-#!/bin/bashfkmlemkwlfkmewf
+#!/bin/bashfkmlemkwlfkmewf2
 
 if [ $# -ne 2 ]; then
     echo "Usage: $0 <filename> <duration_seconds>"
