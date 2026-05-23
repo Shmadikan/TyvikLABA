@@ -14,7 +14,7 @@ services:
       retries: 5
 
   app:
-    image: ТВОЙ_DOCKERHUB_ЛОГИН/kubsu-app:latest
+    image: /kubsu-app:latest
     ports:
       - "8042:8042"
     environment:
